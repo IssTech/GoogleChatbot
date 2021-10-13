@@ -1,4 +1,4 @@
-# Google Calendar Python Test
+# Google Calendar Node JS
 This is a test script for both read and write to a Google Workspace Calendar.
 To use this you need to grant access with a Service Account to your Calendar.
 More information can you find on our ['https://isstech.io'](blog post)
@@ -14,13 +14,13 @@ Before you start make sure you have done following.
 7. Created OAuth Scope with the Service Account Client ID.
 
 ## Configuration
-Open test.py in any preferred text editor, like Atom, VIM or any similar.
+Open index.js in any preferred text editor, like Atom, VIM or any similar.
 
 ### Calendar ID
-Add your Calendar ID that you find in your Shared Calendar Settings and add that key to the `CALENDAR_ID` variable.
+Add your Calendar ID that you find in your Shared Calendar Settings and add that key to the `calendarId` variable.
 
 ### Service Account Key
-When you created the Service Account you downloaded a JSON file. Copy all content in that file paste it under the `SERVICE_ACCOUNT` variable.
+When you created the Service Account you downloaded a JSON file. Copy all content in that file paste it under the `serviceAccount` variable.
 
-## RUN
-When you have configured the script you should be able to create a Calendar Invite in your shared Google calendar.
+## Deploy
+Now can you deploy the code and test your chatbot.
