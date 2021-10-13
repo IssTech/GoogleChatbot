@@ -15,6 +15,10 @@ Before you start make sure you have done following.
 
 ## Configuration
 Open test.py in any preferred text editor, like Atom, VIM or any similar.
+It is recommended to create a virtual environment wrapper before you use this code, because we need to install a few dependancies.
+
+To install all required dependancies please run.
+`pip install -r requirements.txt`
 
 ### Calendar ID
 Add your Calendar ID that you find in your Shared Calendar Settings and add that key to the `CALENDAR_ID` variable.
