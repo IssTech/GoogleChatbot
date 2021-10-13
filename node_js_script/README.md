@@ -1,7 +1,7 @@
 # Google Calendar Node JS
 This is a test script for both read and write to a Google Workspace Calendar.
 To use this you need to grant access with a Service Account to your Calendar.
-More information can you find on our ['https://isstech.io'](blog post)
+More information can you find on our ('https://isstech.io')[blog post]
 
 ## Quick Guide
 Before you start make sure you have done following.
@@ -24,3 +24,6 @@ When you created the Service Account you downloaded a JSON file. Copy all conten
 
 ## Deploy
 Now can you deploy the code and test your chatbot.
+
+## Code Information
+Part of the code come from Google. To get more information from the original code please visit (https://github.com/priyankavergadia/AppointmentScheduler-GoogleCalendar)[Priyanka's Github]
