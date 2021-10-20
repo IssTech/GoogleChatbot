@@ -1,7 +1,7 @@
 # Google Calendar Node JS
 This is a test script for both read and write to a Google Workspace Calendar.
 To use this you need to grant access with a Service Account to your Calendar.
-More information can you find on our ('https://isstech.io')[blog post]
+More information can you find on our [Blog](https://www.isstech.io/blogg/)
 
 ## Quick Guide
 Before you start make sure you have done following.
